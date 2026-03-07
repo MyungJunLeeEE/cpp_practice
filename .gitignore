@@ -1,5 +1,17 @@
-# Prerequisites
+# CodeLite / workspace
+.codelite/
+*.workspace
+*.project
+*.mk
+
+# Build folders
+build-Debug/
+build*/# Prerequisites
 *.d
+
+# token file
+../Github_token_key
+Github_token_key
 
 # Compiled Object files
 *.slo
