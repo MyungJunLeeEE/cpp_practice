@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ cpp_string_practice - Debug ]----------"
-	@cd "cpp_string_practice" && "$(MAKE)" -f  "cpp_string_practice.mk"
+	@echo "----------Building project:[ sec10_challenge - Debug ]----------"
+	@cd "sec10_challenge" && "$(MAKE)" -f  "sec10_challenge.mk"
 clean:
-	@echo "----------Cleaning project:[ cpp_string_practice - Debug ]----------"
-	@cd "cpp_string_practice" && "$(MAKE)" -f  "cpp_string_practice.mk" clean
+	@echo "----------Cleaning project:[ sec10_challenge - Debug ]----------"
+	@cd "sec10_challenge" && "$(MAKE)" -f  "sec10_challenge.mk" clean
