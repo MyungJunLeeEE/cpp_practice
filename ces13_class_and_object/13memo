@@ -1,0 +1,12 @@
+sec13
+1. class name first letter should be Upper.
+
+2. using class method by pointer
+*ptr.method == ptr->method
+
+3. you cant use & on workspace or project
+
+4. outside class member method declare
+	datatype class::method_name(reference vari){
+	..............}
+	
